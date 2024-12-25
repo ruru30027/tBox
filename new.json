@@ -98,6 +98,34 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+                "key": "shandian",
+                "name": "⚡️闪电┃UC盘",
+                "type": 5,
+                "searchable": 1,
+                "filterClass": "",
+                "firstClass": "",
+                "filterPlay": "",
+                "firstPlay": "",
+                "ext": "shandian.js",
+                "flagable": 0,
+                "filterPlayFileKeywords": "",
+                "keepPlayFileKeywords": "",
+                "selectedPlayer": "0"
+        },{
+                "key": "omii",
+                "name": "🌕奥秘┃网盘",
+                "type": 5,
+                "searchable": 1,
+                "filterClass": "",
+                "firstClass": "",
+                "filterPlay": "",
+                "firstPlay": "",
+                "ext": "omii.js",
+                "flagable": 0,
+                "filterPlayFileKeywords": "",
+                "keepPlayFileKeywords": "",
+                "selectedPlayer": "0"
+  },{
 		"key": "nanf",
 		"name": "🀁南风短剧┃夸克",
 		"type": 5,
